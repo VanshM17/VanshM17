@@ -1,9 +1,9 @@
-# Hi, I'm Vansh M 👋
+# Hi, I'm Vansh Maheshwari
 
-I started out in Mechanical Engineering, which makes this a very Tony Stark origin story, minus the cave OF COURSE.
-Somewhere between the hardware and the code, I got pulled towards software, and what hooked me was the same thing that draws me to everything I care about: figuring out how a system works, then making it work better.
+I started out in Mechanical Engineering, which makes this a very Tony Stark origin story, minus the cave OBVIOUSLY.
+Somewhere between the syllabus, I got pulled towards software, and what hooked me was the same thing that draws me to everything I care about: figuring out how a system works, then making it work better.
 
-My philosophy is basically Stark’s: if it’s broken, rebuild it. If it works, rebuild it better. I’d rather build a rough prototype and iterate than polish an idea that never leaves my head.
+My philosophy is basically Stark’s: if it’s broken, rebuild it. If it isn't, rebuild it better. I’d rather build a rough prototype and iterate than polish an idea that never leaves my head.
 
 “Sometimes you gotta run before you can walk.” That’s how I learn: build it, break it, fix it, repeat. 
 
