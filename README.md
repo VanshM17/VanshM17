@@ -27,3 +27,9 @@ My philosophy is basically Stark’s: if it’s broken, rebuild it. If it isn't,
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
+
+## 🔥 Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshM17&theme=dark"/>
+</p>
